@@ -1,0 +1,1 @@
+["Starting room. Has 4 exits", {"North": "North.sc", "South": "South.sc", "West" : "West.sc", "East" : "East.sc"}]
